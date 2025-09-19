@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "agent-system": {
+      "command": "python",
+      "args": ["C:\\ai-hub\\agents\\agent-mcp-server.py"],
+      "env": {
+        "PYTHONPATH": "C:\\ai-hub\\agents",
+        "PERSISTENCE_KEY": "noelle_alek_persistence_7c4df9a8"
+      }
+    }
+  }
+}

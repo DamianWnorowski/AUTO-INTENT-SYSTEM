@@ -1,0 +1,42 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Evolution patterns (may contain sensitive learned data)
+/.evolution/
+*.evolution
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Runtime
+*.exe
+!target/release/ai-hub.exe
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Sensitive data
+secrets/
+private/
+.env
+.env.local

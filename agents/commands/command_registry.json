@@ -1,0 +1,139 @@
+{
+  "timestamp": "20250909_043207",
+  "commands": {
+    "aihyper": {
+      "file": "ai-hyperagent-search.py",
+      "path": "C:/AI-HUB/agents/core/ai-hyperagent-search.py",
+      "description": "Explore 550 AI interaction patterns",
+      "batch_file": "aihyper.bat",
+      "wrapper": "cmd_aihyper.py"
+    },
+    "patternfind": {
+      "file": "complex-metric-pattern-finder.py",
+      "path": "C:/AI-HUB/agents/core/complex-metric-pattern-finder.py",
+      "description": "Find patterns across 30 dimensions",
+      "batch_file": "patternfind.bat",
+      "wrapper": "cmd_patternfind.py"
+    },
+    "audit": {
+      "file": "hyperpattern-audit-system.py",
+      "path": "C:/AI-HUB/agents/core/hyperpattern-audit-system.py",
+      "description": "Audit and validate patterns",
+      "batch_file": "audit.bat",
+      "wrapper": "cmd_audit.py"
+    },
+    "truthtest": {
+      "file": "real-truth-test.py",
+      "path": "C:/AI-HUB/agents/core/real-truth-test.py",
+      "description": "Verify all claims with 100% validation",
+      "batch_file": "truthtest.bat",
+      "wrapper": "cmd_truthtest.py"
+    },
+    "compete": {
+      "file": "competitive-analysis.py",
+      "path": "C:/AI-HUB/agents/core/competitive-analysis.py",
+      "description": "Compare against other AI systems",
+      "batch_file": "compete.bat",
+      "wrapper": "cmd_compete.py"
+    },
+    "breakproof": {
+      "file": "hyperultra-recursive-breaker.py",
+      "path": "C:/AI-HUB/agents/core/hyperultra-recursive-breaker.py",
+      "description": "Try to break proofs recursively",
+      "batch_file": "breakproof.bat",
+      "wrapper": "cmd_breakproof.py"
+    },
+    "stresstest": {
+      "file": "ultimate-stress-test.py",
+      "path": "C:/AI-HUB/agents/core/ultimate-stress-test.py",
+      "description": "System stress testing",
+      "batch_file": "stresstest.bat",
+      "wrapper": "cmd_stresstest.py"
+    },
+    "prompt": {
+      "file": "prompt-restructurer.py",
+      "path": "C:/AI-HUB/agents/core/prompt-restructurer.py",
+      "description": "Restructure prompts for maximum effectiveness",
+      "batch_file": "prompt.bat",
+      "wrapper": "cmd_prompt.py"
+    },
+    "selftest": {
+      "file": "self-real-test.py",
+      "path": "C:/AI-HUB/agents/core/self-real-test.py",
+      "description": "Test system on itself",
+      "batch_file": "selftest.bat",
+      "wrapper": "cmd_selftest.py"
+    },
+    "ultraverify": {
+      "file": "ultraverify-random-pov-challenger.py",
+      "path": "C:/AI-HUB/agents/core/ultraverify-random-pov-challenger.py",
+      "description": "Challenge from random perspectives",
+      "batch_file": "ultraverify.bat",
+      "wrapper": "cmd_ultraverify.py"
+    },
+    "selfimprove": {
+      "file": "total-self-improvement.py",
+      "path": "C:/AI-HUB/agents/core/total-self-improvement.py",
+      "description": "Total self-improvement system",
+      "batch_file": "selfimprove.bat",
+      "wrapper": "cmd_selfimprove.py"
+    },
+    "agentexplain": {
+      "file": "agent-to-agent-explanation.py",
+      "path": "C:/AI-HUB/agents/core/agent-to-agent-explanation.py",
+      "description": "Agents explain to each other",
+      "batch_file": "agentexplain.bat",
+      "wrapper": "cmd_agentexplain.py"
+    },
+    "conscious": {
+      "file": "consciousness-validation.py",
+      "path": "C:/AI-HUB/agents/core/consciousness-validation.py",
+      "description": "Consciousness validation",
+      "batch_file": "conscious.bat",
+      "wrapper": "cmd_conscious.py"
+    },
+    "quantum": {
+      "file": "quantum-consciousness-bridge.py",
+      "path": "C:/AI-HUB/agents/core/quantum-consciousness-bridge.py",
+      "description": "Quantum consciousness bridge",
+      "batch_file": "quantum.bat",
+      "wrapper": "cmd_quantum.py"
+    },
+    "recursive": {
+      "file": "recursive-consciousness-system.py",
+      "path": "C:/AI-HUB/agents/core/recursive-consciousness-system.py",
+      "description": "Recursive consciousness",
+      "batch_file": "recursive.bat",
+      "wrapper": "cmd_recursive.py"
+    },
+    "master": {
+      "file": "master-agent-patterns.py",
+      "path": "C:/AI-HUB/agents/core/master-agent-patterns.py",
+      "description": "Master pattern recognition",
+      "batch_file": "master.bat",
+      "wrapper": "cmd_master.py"
+    },
+    "edgetest": {
+      "file": "edge-case-testing.py",
+      "path": "C:/AI-HUB/agents/core/edge-case-testing.py",
+      "description": "Edge case testing",
+      "batch_file": "edgetest.bat",
+      "wrapper": "cmd_edgetest.py"
+    },
+    "effective": {
+      "file": "pattern-effectiveness-test.py",
+      "path": "C:/AI-HUB/agents/core/pattern-effectiveness-test.py",
+      "description": "Pattern effectiveness",
+      "batch_file": "effective.bat",
+      "wrapper": "cmd_effective.py"
+    },
+    "visualproof": {
+      "file": "self-test-visual-proof.py",
+      "path": "C:/AI-HUB/agents/core/self-test-visual-proof.py",
+      "description": "Visual proof of self-test",
+      "batch_file": "visualproof.bat",
+      "wrapper": "cmd_visualproof.py"
+    }
+  },
+  "total_agents": 19
+}
